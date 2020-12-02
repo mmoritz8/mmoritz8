@@ -1,4 +1,6 @@
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
 
 <p>Welcome to my page! </br> I'm Maddie~</p>
 <h3>Things I code with</h3>
@@ -17,14 +19,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p>Hi 👋, I'm a passionate, frontend developer from Austin, TX
- 🔭 I’m currently working on on strengthening JS
- 🌱 I’m currently learning React Native and Ruby on Rails 💬 Ask me about Front and Back End
- 👨‍💻 All of my projects are available at https://mmoritz8.github.io/UpdatedPortfolio/
-  📫 How to reach me mmoritz0808@gmail.com ⚡
-
 <h3>Where to find me</h3>
 <p><a href="https://github.com/mmoritz" target="_bl ank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/hachigo8" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/madeline-m-8aaa1062/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+------------
