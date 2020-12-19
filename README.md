@@ -2,7 +2,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Maddie~</p>
+<p>Welcome to my page! </br> I'm Maddie.
+
+<h4>Due to my recent history only being in the Educational department, my Portfolio consists of "clones", vanilla javascript apps, and contains code taught to me through Udemy/Bootcamp/Youtube. If you have any ish-tish, please drop me a line at my email.~</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
