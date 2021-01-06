@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p>Triplebtye Profile Page: <a href="https://triplebyte.com/tb/m-m-5eedlix"></a> </p>
+<p>Triplebtye Profile Page: <a href="https://triplebyte.com/tb/m-m-5eedlix"> Click Me!</a> </p>
 <p>Welcome to my page! </br> I'm Maddie.
 
 <h4>Due to my recent history only being in the Educational department, my Portfolio consists of "clones", vanilla javascript apps, and contains code taught to me through Udemy/Bootcamp/Youtube. If you have any ish-tish, please drop me a line at my email.~</p>
